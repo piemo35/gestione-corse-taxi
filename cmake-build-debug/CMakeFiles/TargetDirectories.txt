@@ -1,0 +1,3 @@
+/Users/pietro/Documents/GITHUB/cpp/NCC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pietro/Documents/GITHUB/cpp/NCC/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pietro/Documents/GITHUB/cpp/NCC/cmake-build-debug/CMakeFiles/NCC.dir

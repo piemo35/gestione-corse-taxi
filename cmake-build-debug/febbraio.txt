@@ -1,0 +1,13 @@
+G ORA PART DES $$ be aut
+8 23 mxp milano 40 10 8.00
+9 21 mxp milano 40 10 8.00
+10 14 milano mxp 40 10 8.00
+10 17 milano mxp 40 10 8.00
+10 19 mxp lainate 40 10 8.00
+13 8 milano mxp 40 10 8.00
+16 9 mxp cervinia 150 0 0.00
+17 17 mxp milano 40 10 8.00
+17 23 linate torino 150 30 40.00
+18 9 milano mxp 40 10 13.00
+27 17 milano linate 30 6 0.00
+28 13 mxp milano 40 10 8.00

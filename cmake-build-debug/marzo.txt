@@ -1,0 +1,10 @@
+G ORA PART DES $$ be aut
+1 23 mxp milano 45 10 8.00
+2 4 peschiera mxp 60 10 9.00
+2 20 mxp mxpH 35 0 0.00
+2 21 mxp milano 45 10 8.00
+3 16 milano orio 50 10 4.00
+8 21 mxp milano 45 16 9.00
+10 11 milano mxp 45 17 7.00
+10 18 mxp milano 45 14 8.00
+17 12 milano mxp 45 17 3.40
